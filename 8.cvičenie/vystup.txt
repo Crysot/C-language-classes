@@ -1,0 +1,8 @@
+001 Prvy
+002 kodair yhurD
+003 Treti*a*posledny*riadok
+004 ytrvts etse asderp A
+005 Prvy
+006 kodair*yhurD
+007 Treti a posledny riadok
+008 trvts etse asderp Ay
